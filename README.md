@@ -11,6 +11,9 @@ A minimal personal expense tracker for Android.
 - Backup and restore data
 - 100% local, no internet, no accounts, no ads
 
+## Click below to download APK
+https://github.com/TheHassanBukhari/xpense/releases/download/v1.3.0/Xpense.1.3.0.apk
+
 ## Built With
 Java, Android Studio
 
