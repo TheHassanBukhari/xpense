@@ -22,3 +22,6 @@ Java, Android Studio
 ## Developer
 Hassan Bukhari<br>
 BS Computer Science, COMSATS Islamabad
+
+## Legal
+[Privacy Policy](https://thehassanbukhari.github.io/xpense/privacy-policy.html)
