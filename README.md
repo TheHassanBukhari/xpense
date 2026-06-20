@@ -14,7 +14,7 @@ A minimal personal finance tracker for Android. Track expenses, manage budgets, 
 - 100% local, no internet, no accounts, no ads
 
 ## Download
-[Download latest APK (v1.5.0)](https://github.com/TheHassanBukhari/xpense/releases/download/v1.5.0/Xpense.v1.5.0)
+[Download latest APK (v1.5.0)](https://github.com/TheHassanBukhari/xpense/releases/download/v1.6.0/Xpense.v1.6.0.apk)
 
 ## Built With
 Java, Android Studio
