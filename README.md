@@ -19,7 +19,7 @@ A minimal personal finance tracker for Android. Track expenses, manage budgets, 
 ## Built With
 Kotlin, Android Studio
 ## Developer
-[Hassan Bukhari](https://hassanbukhari.is-a.dev/)<br>
+[Syed Hassan Ali Bukhari](https://hassanbukhari.is-a.dev/)<br>
 BS Computer Science, COMSATS Islamabad
 ## Legal
 [Privacy Policy](https://thehassanbukhari.github.io/xpense/privacy-policy.html)
