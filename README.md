@@ -1,6 +1,8 @@
 # Xpense
 A minimal personal finance tracker for Android. Track expenses, manage budgets, and record receivables and payables, all stored locally on your device.
 
+**Portfolio:** [hassanbukhari.is-a.dev](https://hassanbukhari.is-a.dev/)
+
 ## Features
 - Track expenses with category, description, amount, and custom date
 - Monthly or weekly budget cycle
@@ -12,16 +14,12 @@ A minimal personal finance tracker for Android. Track expenses, manage budgets, 
 - Backup and restore data
 - Light and dark theme
 - 100% local, no internet, no accounts, no ads
-
 ## Download
 [Download latest APK (v2.0.2)](https://github.com/TheHassanBukhari/xpense/releases/download/v2.0.2/Xpense.2.0.2.apk)
-
 ## Built With
 Kotlin, Android Studio
-
 ## Developer
-Hassan Bukhari<br>
+[Hassan Bukhari](https://hassanbukhari.is-a.dev/)<br>
 BS Computer Science, COMSATS Islamabad
-
 ## Legal
 [Privacy Policy](https://thehassanbukhari.github.io/xpense/privacy-policy.html)
